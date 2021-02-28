@@ -64,8 +64,8 @@ Docker-compose absolutely sucks and is causing heaps of issues. You'll have to m
     -e APPNAME=YDS \
     -e ADMINUSER=admin \
     -e PASSWORD=youtube \
-    -e TZ=Australia/Melbourne \
-    katznboyz1/youtube-dl-server:latest
+    -e TZ=Australia/Sydney \
+    elit3ge/youtube-dl-server:latest
     ```
 
 
